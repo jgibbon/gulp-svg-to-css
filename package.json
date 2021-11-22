@@ -34,7 +34,7 @@
   "dependencies": {
     "gulp-util": "*",
     "mustache": "",
-    "svgo": "*",
+    "svgo": "^2.7.0",
     "through2": "*",
     "vinyl": "*"
   },
